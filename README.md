@@ -4,7 +4,7 @@
 
 ## Project Name : **Developer Landing Page !**
 
-This project helped me learn about the hover effect and one can see from the [Live Link ]() that i have used it extensively, I might have overused it. Making this website reponsive for 600px or less was another time consuming part of this porject.
+This project helped me learn about the hover effect and one can see from the [live link ](https://developer-pagee.netlify.app/) that i have used it extensively, I might have overused it. Making this website reponsive for 600px or less was another time consuming part of this porject.
 
 
 
@@ -40,4 +40,4 @@ This project helped me learn about the hover effect and one can see from the [Li
 
 ​
 
-[Live Link !]()
+[Live Link !](https://developer-pagee.netlify.app/)
